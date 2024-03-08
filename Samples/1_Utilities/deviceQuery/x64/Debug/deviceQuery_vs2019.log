@@ -1,0 +1,4 @@
+﻿  deviceQuery.cpp
+    正在创建库 ../../../bin/win64/Debug/deviceQuery.lib 和对象 ../../../bin/win64/Debug/deviceQuery.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  deviceQuery_vs2019.vcxproj -> D:\yangzijia\cuda-samples-11.8\bin\win64\Debug\deviceQuery.exe
